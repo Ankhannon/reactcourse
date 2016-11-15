@@ -1,0 +1,22 @@
+{
+  "name": "reactcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava 'app/**/*.test.js' --verbose --require ./other/setup-ava-tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankhannon/reactcourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankhannon/reactcourse/issues"
+  },
+  "homepage": "https://github.com/Ankhannon/reactcourse#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
